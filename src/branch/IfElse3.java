@@ -10,7 +10,7 @@ public class IfElse3 {
         }else if (gajiSaatIni>inginMenikahPasSudahGajiBanyak){
             System.out.println("Alhamdulillah sudah siap nikah"); //bukan hoax
         }else{
-            System.out.println("Loh malah corona, batal nikah dong syalalalala~~~~");
+            System.out.println("Loh malah corona, batal nikah dong syalalalala~~~~"); //saat ini
         }
 
     }
