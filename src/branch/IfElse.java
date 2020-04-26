@@ -2,7 +2,7 @@ package branch;
 
 public class IfElse {
     public static void main(String[] args) {
-        int salaryAyah = 2500000;
+        double salaryAyah = 2500000;
         double salaryIbu = 3500000;
 
         if (salaryAyah < salaryIbu){
